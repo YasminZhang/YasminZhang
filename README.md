@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasminZhang)](https://github.com/anuraghazra/github-readme-stats)
+
+I am now a PhD student @ UCLA, working on computer vision, generative AI and representation learning. 
