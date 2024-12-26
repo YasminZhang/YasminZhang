@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasminZhang)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasminZhang)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+
 
 I am Yasi Zhang, now a PhD student @ UCLA, working on computer vision, generative AI and representation learning. 
 
