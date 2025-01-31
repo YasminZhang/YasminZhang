@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 
 
-I am Yasi Zhang, now a PhD student @ UCLA, working on computer vision, generative AI and representation learning. 
+I am Yasi Zhang, now a PhD student @ UCLA, working on computer vision, generative AI, multimodaility and representation learning. 
 
 My personal website: https://yasminzhang.github.io/ 
